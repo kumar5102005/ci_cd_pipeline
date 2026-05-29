@@ -16,4 +16,4 @@ Automated CI/CD pipeline using GitHub Actions that:
 push to main → test → build Docker image → push to DockerHub
 
 ## DockerHub Image
-[https://hub.docker.com/r/YOUR_USERNAME/nodejs-demo-app](https://hub.docker.com/repository/docker/phanivangali/devops-task-1)
+[https://hub.docker.com/repository/docker/phanivangali/devops-task-1](https://hub.docker.com/repository/docker/phanivangali/devops-task-1)
